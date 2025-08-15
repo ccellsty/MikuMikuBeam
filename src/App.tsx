@@ -529,7 +529,7 @@ function App() {
               ))}
               {logs.length === 0 && (
                 <div className="italic text-gray-500">
-                  {">"} Waiting for Miku's power...
+                  {">"} Touching grass..
                 </div>
               )}
             </div>
@@ -550,15 +550,7 @@ function App() {
 
         <div className="flex flex-col items-center">
           <span className="text-sm text-center text-gray-500">
-            🎵 v1.0 made by{" "}
-            <a
-              href="https://github.com/sammwyy/mikumikubeam"
-              target="_blank"
-              rel="noreferrer"
-            >
-              @Sammwy
-            </a>{" "}
-            🎵
+            🎵 v1.0 made by{3153}
           </span>
           <span>
             <input
